@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "pauuu.xyz"
+theme = "kiss"
+
+[params.info]
+enableSocial = true
+
+[params.opengraph.twitter]
+page = ""
+
+[params.social]
+twitter = "paulie_b"
+instagram = "pauliepower"
+
+[params.social.config]
+platforms = ["twitter","instagram"]
