@@ -3,42 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://172.16.224.91/categories/</loc>
+    <loc>https://pauuu.xyz/categories/</loc>
     <lastmod>2020-02-20T10:55:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://172.16.224.91/categories/markdown/</loc>
+    <loc>https://pauuu.xyz/categories/markdown/</loc>
     <lastmod>2020-02-20T10:55:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://172.16.224.91/</loc>
+    <loc>https://pauuu.xyz/</loc>
     <lastmod>2020-02-20T10:55:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://172.16.224.91/posts/</loc>
+    <loc>https://pauuu.xyz/posts/</loc>
     <lastmod>2020-02-20T10:55:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://172.16.224.91/categories/test/</loc>
+    <loc>https://pauuu.xyz/categories/test/</loc>
     <lastmod>2020-02-20T10:55:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://172.16.224.91/posts/testpost/</loc>
+    <loc>https://pauuu.xyz/posts/testpost/</loc>
     <lastmod>2020-02-20T10:55:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://172.16.224.91/posts/my-first-post/</loc>
-    <lastmod>2020-02-20T08:47:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://172.16.224.91/tags/</loc>
+    <loc>https://pauuu.xyz/tags/</loc>
   </url>
   
 </urlset>

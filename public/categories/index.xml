@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>Categories on pauuu.xyz</title>
-   <link>http://172.16.224.91/categories/</link>
+   <link>https://pauuu.xyz/categories/</link>
    <description>Recent content in Categories on pauuu.xyz</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-gb</language>
    <copyright>©2020 Paul Baker. Don&#39;t steal stuff.</copyright>
    <lastBuildDate>Thu, 20 Feb 2020 10:55:49 +0000</lastBuildDate>
    
-       <atom:link href="http://172.16.224.91/categories/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://pauuu.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>Testpost</title>
-       <link>http://172.16.224.91/posts/testpost/</link>
+       <link>https://pauuu.xyz/posts/testpost/</link>
        <pubDate>Thu, 20 Feb 2020 10:55:49 +0000</pubDate>
        
-       <guid>http://172.16.224.91/posts/testpost/</guid>
+       <guid>https://pauuu.xyz/posts/testpost/</guid>
        <description>&lt;h1 id=&#34;macdown&#34;&gt;MacDown&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&#34;https://macdown.uranusjr.com/static/images/logo-160.png&#34; alt=&#34;MacDown logo&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Hello there! I’m &lt;strong&gt;MacDown&lt;/strong&gt;, the open source Markdown editor for OS X.&lt;/p&gt;
@@ -352,15 +352,6 @@ date: 2014-06-06 20:00:00
 &lt;/ol&gt;
 &lt;/section&gt;
 </description>
-     </item>
-   
-     <item>
-       <title>My First Post</title>
-       <link>http://172.16.224.91/posts/my-first-post/</link>
-       <pubDate>Thu, 20 Feb 2020 08:47:14 +0000</pubDate>
-       
-       <guid>http://172.16.224.91/posts/my-first-post/</guid>
-       <description></description>
      </item>
    
  </channel>
