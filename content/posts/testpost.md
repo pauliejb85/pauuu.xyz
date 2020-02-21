@@ -2,6 +2,7 @@
 title: "Testpost"
 date: 2020-02-20T10:55:49Z
 draft: false
+categories: [test, markdown]
 ---
 # MacDown
 

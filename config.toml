@@ -1,17 +1,14 @@
 baseURL = "http://172.16.224.91/"
 languageCode = "en-gb"
 title = "pauuu.xyz"
-theme = "kiss"
+theme = "hugo-kiera"
 
-[params.info]
-enableSocial = true
-
-[params.opengraph.twitter]
-page = ""
-
-[params.social]
-twitter = "paulie_b"
-instagram = "pauliepower"
-
-[params.social.config]
-platforms = ["twitter","instagram"]
+[author]
+#	name = ""
+#	github = ""
+#	gitlab = ""
+#	linkedin = ""
+#	facebook = ""
+	twitter = "paulie_b"
+	instagram = "pauliepower"
+#	stackoverflow = ""
