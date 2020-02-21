@@ -2,9 +2,10 @@ baseURL = "http://172.16.224.91/"
 languageCode = "en-gb"
 title = "pauuu.xyz"
 theme = "hugo-kiera"
+copyright = "©2020 Paul Baker. Don't steal stuff."
 
 [author]
-#	name = ""
+	name = "Paul Baker"
 #	github = ""
 #	gitlab = ""
 #	linkedin = ""
@@ -12,3 +13,5 @@ theme = "hugo-kiera"
 	twitter = "paulie_b"
 	instagram = "pauliepower"
 #	stackoverflow = ""
+
+

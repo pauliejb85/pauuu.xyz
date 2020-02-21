@@ -1,3 +1,8 @@
+@font-face {
+        font-family: 'Paulie';
+        src: url('https://pauuu.xyz/css/fonts/Paulie.ttf');
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -6,7 +11,10 @@ body {
   color: #333333;
 }
 
-h1,
+h1 {
+  font-family: "Paulie";
+}
+
 h2,
 h3,
 h4,
