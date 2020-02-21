@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://172.16.224.91/"
 languageCode = "en-gb"
 title = "pauuu.xyz"
 theme = "kiss"

@@ -2466,6 +2466,7 @@ a.box:active {
 
 .subtitle,
 .title {
+  font-family: Paulie;
   font-weight: 300;
   word-break: break-word;
 }
